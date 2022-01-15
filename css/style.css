@@ -204,5 +204,5 @@ body {
 }
 
 .photo:hover {
-  animation: pulse 1s;
+  /*animation: pulse 1s;*/
 }
